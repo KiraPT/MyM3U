@@ -1,0 +1,152 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##########   Portugal   ##########" tvg-logo="" group-title="Portugal",##########   Portugal   ##########
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2782.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen HD PT" tvg-logo="" group-title="Portugal",24 Kitchen HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2781.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Bola TV PT" tvg-logo="" group-title="Portugal",A Bola TV PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2780.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E PT" tvg-logo="" group-title="Portugal",A&E PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2779.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI HD PT" tvg-logo="" group-title="Portugal",TVI HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/3840.ts
+#EXTINF:-1 tvg-id="" tvg-name="Afro Music PT" tvg-logo="" group-title="Portugal",Afro Music PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2778.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD PT" tvg-logo="" group-title="Portugal",AMC HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2776.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC PT" tvg-logo="" group-title="Portugal",AMC PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Axn Black HD PT" tvg-logo="" group-title="Portugal",Axn Black HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2772.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD PT" tvg-logo="" group-title="Portugal",AXN HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2771.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN White HD PT" tvg-logo="" group-title="Portugal",AXN White HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby First PT" tvg-logo="" group-title="Portugal",Baby First PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV PT" tvg-logo="" group-title="Portugal",Baby TV PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2768.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment PT" tvg-logo="" group-title="Portugal",BBC Entertainment PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2775.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News PT" tvg-logo="" group-title="Portugal",BBC World News PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2773.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC World PT" tvg-logo="" group-title="Portugal",BBC World PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2774.ts
+#EXTINF:-1 tvg-id="" tvg-name="Benefica TV 1 PT" tvg-logo="" group-title="Portugal",Benefica TV 1 PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2767.ts
+#EXTINF:-1 tvg-id="" tvg-name="BTV 1 HD PT" tvg-logo="" group-title="Portugal",BTV 1 HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caca e Pesca PT" tvg-logo="" group-title="Portugal",Caca e Pesca PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2765.ts
+#EXTINF:-1 tvg-id="" tvg-name="CacaVision HD PT" tvg-logo="" group-title="Portugal",CacaVision HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2764.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network PT" tvg-logo="" group-title="Portugal",Cartoon Network PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2761.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality PT" tvg-logo="" group-title="Portugal",CBS Reality PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2760.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMundo PT" tvg-logo="" group-title="Portugal",CineMundo PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2759.ts
+#EXTINF:-1 tvg-id="" tvg-name="CMTV PT" tvg-logo="" group-title="Portugal",CMTV PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel PT" tvg-logo="" group-title="Portugal",Discovery Channel PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2757.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ShowCase HD PT" tvg-logo="" group-title="Portugal",Discovery ShowCase HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2756.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior PT" tvg-logo="" group-title="Portugal",Disney Junior PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel PT" tvg-logo="" group-title="Portugal",Disney Channel PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/3841.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment PT" tvg-logo="" group-title="Portugal",E! Entertainment PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2754.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 HD PT" tvg-logo="" group-title="Portugal",EuroSport 1 HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2752.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 PT" tvg-logo="" group-title="Portugal",EuroSport 1 PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2753.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 PT" tvg-logo="" group-title="Portugal",EuroSport 2 PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2751.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport News PT" tvg-logo="" group-title="Portugal",EuroSport News PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box PT" tvg-logo="" group-title="Portugal",Fight Box PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2749.ts
+#EXTINF:-1 tvg-id="" tvg-name="FTV HD PT" tvg-logo="" group-title="Portugal",FTV HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy HD PT" tvg-logo="" group-title="Portugal",Fox Comedy HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy PT" tvg-logo="" group-title="Portugal",Fox Comedy PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime HD PT" tvg-logo="" group-title="Portugal",Fox Crime HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2739.ts
+#EXTINF:-1 tvg-id="" tvg-name="LocalVison HD PT" tvg-logo="" group-title="Portugal",LocalVison HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD PT" tvg-logo="" group-title="Portugal",Fox HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD PT" tvg-logo="" group-title="Portugal",Fox Life HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2741.ts
+#EXTINF:-1 tvg-id="" tvg-name="Full HD PT" tvg-logo="" group-title="Portugal",Full HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies HD PT" tvg-logo="" group-title="Portugal",Fox Movies HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2742.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies PT" tvg-logo="" group-title="Portugal",Fox Movies PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV PT" tvg-logo="" group-title="Portugal",Fuel TV PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV PT" tvg-logo="" group-title="Portugal",Globo TV PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Historia PT" tvg-logo="" group-title="Portugal",Historia PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2735.ts
+#EXTINF:-1 tvg-id="" tvg-name="HollyWood HD PT" tvg-logo="" group-title="Portugal",HollyWood HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2734.ts
+#EXTINF:-1 tvg-id="" tvg-name="HollyWood PT" tvg-logo="" group-title="Portugal",HollyWood PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2733.ts
+#EXTINF:-1 tvg-id="" tvg-name="JimJam PT" tvg-logo="" group-title="Portugal",JimJam PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2732.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kombat Sport PT" tvg-logo="" group-title="Portugal",Kombat Sport PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2731.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM POP PT" tvg-logo="" group-title="Portugal",MCM POP PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2730.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP PT" tvg-logo="" group-title="Portugal",MCM TOP PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motor TV PT" tvg-logo="" group-title="Portugal",Motor TV PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2728.ts
+#EXTINF:-1 tvg-id="" tvg-name="MotorVision HD PT" tvg-logo="" group-title="Portugal",MotorVision HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2727.ts
+#EXTINF:-1 tvg-id="" tvg-name="MotorVision PT" tvg-logo="" group-title="Portugal",MotorVision PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motorsport.TV HD PT" tvg-logo="" group-title="Portugal",Motorsport.TV HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2725.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Portugal PT" tvg-logo="" group-title="Portugal",MTV Portugal PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD PT" tvg-logo="" group-title="Portugal",Nat Geo HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2720.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCS LifeStyle PT" tvg-logo="" group-title="Portugal",MCS LifeStyle PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD PT" tvg-logo="" group-title="Portugal",Nat Geo Wild HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild PT" tvg-logo="" group-title="Portugal",Nat Geo Wild PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon PT" tvg-logo="" group-title="Portugal",Nickelodeon PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Odisseia PT" tvg-logo="" group-title="Portugal",Odisseia PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2718.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panda Biggs PT" tvg-logo="" group-title="Portugal",Panda Biggs PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2763.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Panda PT" tvg-logo="" group-title="Portugal",Canal Panda PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid PT" tvg-logo="" group-title="Portugal",Real Madrid PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2715.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD PT" tvg-logo="" group-title="Portugal",RTP 1 HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2714.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 PT" tvg-logo="" group-title="Portugal",RTP 1 PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2710.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD PT" tvg-logo="" group-title="Portugal",RTP 2 HD PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2713.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 PT" tvg-logo="" group-title="Portugal",RTP 2 PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2709.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 PT" tvg-logo="" group-title="Portugal",RTP 3 PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2708.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Acores PT" tvg-logo="" group-title="Portugal",RTP Acores PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2712.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Africa PT" tvg-logo="" group-title="Portugal",RTP Africa PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2711.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Maderia PT" tvg-logo="" group-title="Portugal",RTP Maderia PT
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2707.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Memo
