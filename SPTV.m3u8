@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:104024
+#EXT-X-TARGETDURATION:6
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 1
+http://g1.securestream.streamsport.online/stream/YjhmMWRiMjk2OGI2NzQxMmUwZjI1NTRmMmEzMzFkMDE=/Sport1PT-168962940.ts
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 2
+http://g5.securestream.streamsport.online/stream/YjhmMWRiMjk2OGI2NzQxMmUwZjI1NTRmMmEzMzFkMDE=/Sport2PT-170406540.ts
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 3
+http://g3.securestream.streamsport.online/stream/YjhmMWRiMjk2OGI2NzQxMmUwZjI1NTRmMmEzMzFkMDE=/Sport3PT-1688195340.ts
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 4
+http://g4.securestream.streamsport.online/stream/YjhmMWRiMjk2OGI2NzQxMmUwZjI1NTRmMmEzMzFkMDE=/Sport4PT-299804940.ts
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 5
+http://g8.securestream.streamsport.online/stream/YjhmMWRiMjk2OGI2NzQxMmUwZjI1NTRmMmEzMzFkMDE=/Sport5PT-228701340.ts
