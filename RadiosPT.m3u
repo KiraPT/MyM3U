@@ -6,10 +6,10 @@ http://radiocast.rtp.pt/antena180a.mp3
 #EXTINF:0 radio="true" tvg-logo="http://radioportugal.net/sites/default/files/radio/logos/logo-antena-2_0.jpg" group-title="Portugal", ANTENA 2
 http://radiocast.rtp.pt/antena280a.mp3
 
-#EXTINF:0 radio="true" tvg-logo="http://media.rtp.pt/antena3/wp-content/uploads/2017/03/Antena3_negativo_horiz_RGB.jpg" group-title="Portugal", ANTENA 3
+#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/antena3header.png" group-title="Portugal", ANTENA 3
 http://radiocast.rtp.pt/antena380a.mp3
 
-#EXTINF:0 radio="true" tvg-logo="http://cidade.iol.pt/images/logo.png" group-title="Portugal", CIDADE FM
+#EXTINF:0 radio="true" tvg-logo="http://www.touragarravida.com/images/upload/patrocinio/logo-cidade149087808911.png" group-title="Portugal", CIDADE FM
 http://mcrscast.mcr.iol.pt/cidadefm
 
 #EXTINF:0 radio="true" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" group-title="Portugal", HIPER FM
@@ -18,7 +18,7 @@ http://85.25.73.243:10460/
 #EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Portugal", MEGA Hits
 http://19593.live.streamtheworld.com:3690/MEGA_HITSAAC_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
 
-#EXTINF:0 radio="true" tvg-logo="http://rfm.sapo.pt/images/logo_webr_oceano.png" group-title="Portugal", OCEANO PACIFICO
+#EXTINF:0 radio="true" tvg-logo="https://mediasa01.blob.core.windows.net/rfm/fbsharedimg_webradiopacifico7695a0fd.png" group-title="Portugal", OCEANO PACIFICO
 http://19553.live.streamtheworld.com:3690/OCEANPACIFIC_SC
 
 #EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.orbital.pt/imagem.php?1454265689194", Orbital
@@ -27,7 +27,7 @@ http://stream.radio.com.pt:8401/
 #EXTINF:0 radio="true" tvg-logo="http://weareinsert.com/wp-content/downloads/10713003_440510956096457_8754341076449661035_n.jpg" group-title="Portugal", RADAR
 http://centova.radios.pt:8497/
 
-#EXTINF:0 radio="true" tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" group-title="Portugal", RENASCENÇA
+#EXTINF:0 radio="true" tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" group-title="Portugal", RENASCENÃ‡A
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC_SC?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTEwODY5NjU0LCJ0ZC1yZWciOmZhbHNlfQ.hXNH6OasVXkZ9Mk6jnwdw6yM48K23GT5X_xcrzQzfLs
 
 #EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" group-title="Portugal", RFM
