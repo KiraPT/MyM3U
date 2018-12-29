@@ -34,10 +34,10 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENC
 http://19613.live.streamtheworld.com:3690/RFMAAC_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
 
 #EXTINF:0 radio="true" tvg-logo="http://lunafm.net/wp-content/uploads/2017/03/Luna800-768x399-1.png" group-title="Portugal", Luna FM Portugal
-http://mp3ptstream.lunafm.net:7021/
+http://mp3ptstream.lunafm.net:7021/stream?type=http&nocache=5670
 
 #EXTINF:0 radio="true" tvg-logo="http://lunafm.net/wp-content/uploads/2017/03/Luna800-768x399-1.png" group-title="Portugal", Luna FM World
-http://mp3stream.lunafm.net:7062/
+http://mp3stream.lunafm.net:7062/stream?type=http&nocache=29818
 
 #EXTINF:0 radio="true" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2015/12/RC_em-casa-no-carro-em-todo-o-lado.jpg" group-title="Portugal", Radio Comercial
 http://mcrscast.mcr.iol.pt/comercial.mp3
