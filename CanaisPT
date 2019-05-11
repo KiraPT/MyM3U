@@ -1,283 +1,587 @@
 #EXTM3U
-#EXTINF:-1,PT: RTP 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/6825
-#EXTINF:-1,PT: RTP 1
-http://iptv.mecccam.com:8010/luisete/luisete/806
-#EXTINF:-1,PT: RTP 2 HD
-http://iptv.mecccam.com:8010/luisete/luisete/6824
-#EXTINF:-1,PT: RTP 2
-http://iptv.mecccam.com:8010/luisete/luisete/805
-#EXTINF:-1,PT: SIC HD
-http://iptv.mecccam.com:8010/luisete/luisete/800
-#EXTINF:-1,PT: SIC
-http://iptv.mecccam.com:8010/luisete/luisete/6823
-#EXTINF:-1,PT: TVI HD
-http://iptv.mecccam.com:8010/luisete/luisete/6822
-#EXTINF:-1,PT: TVI
-http://iptv.mecccam.com:8010/luisete/luisete/1427
-#EXTINF:-1,PT: GLOBO PREMIUM
-http://iptv.mecccam.com:8010/luisete/luisete/2763
-#EXTINF:-1,PT: TV GLOBO
-http://iptv.mecccam.com:8010/luisete/luisete/3034
-#EXTINF:-1,PT: TV RECORD
-http://iptv.mecccam.com:8010/luisete/luisete/1439
-#EXTINF:-1,PT: TVI Ficção
-http://iptv.mecccam.com:8010/luisete/luisete/3444
-#EXTINF:-1,PT: TVI REALITY
-http://iptv.mecccam.com:8010/luisete/luisete/1457
-#EXTINF:-1,PT: RTP AÇORES
-http://iptv.mecccam.com:8010/luisete/luisete/1434
-#EXTINF:-1,PT: RTP ÁFRICA
-http://iptv.mecccam.com:8010/luisete/luisete/1433
-#EXTINF:-1,PT: RTP MADEIRA
-http://iptv.mecccam.com:8010/luisete/luisete/1116
-#EXTINF:-1,PT: FINE LIVING NETWORK FHD
-http://iptv.mecccam.com:8010/luisete/luisete/7070
-#EXTINF:-1,PT: RTP MEMÓRIA
-http://iptv.mecccam.com:8010/luisete/luisete/1435
-#EXTINF:-1,PT: SIC CARAS
-http://iptv.mecccam.com:8010/luisete/luisete/2881
-#EXTINF:-1,PT: SIC MULHER
-http://iptv.mecccam.com:8010/luisete/luisete/1430
-#EXTINF:-1,PT: SIC RADICAL
-http://iptv.mecccam.com:8010/luisete/luisete/1127
-#EXTINF:-1,PT: SIC NOTICIAS
-http://iptv.mecccam.com:8010/luisete/luisete/1126
-#EXTINF:-1,PT: RTP 3
-http://iptv.mecccam.com:8010/luisete/luisete/1108
-#EXTINF:-1,PT: TVI 24
-http://iptv.mecccam.com:8010/luisete/luisete/1428
-#EXTINF:-1,PT: BENFICA TV 1
-http://iptv.mecccam.com:8010/luisete/luisete/1111
-#EXTINF:-1,PT: BENFICA TV 1  FHD
-http://iptv.mecccam.com:8010/luisete/luisete/3247
-#EXTINF:-1,PT: SPORT TV+
-http://iptv.mecccam.com:8010/luisete/luisete/1449
-#EXTINF:-1,PT: SPORT TV 1
-http://iptv.mecccam.com:8010/luisete/luisete/3237
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://iptv.mecccam.com:8010/luisete/luisete/3698
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/799
-#EXTINF:-1,PT: SPORT TV 2
-http://iptv.mecccam.com:8010/luisete/luisete/3236
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://iptv.mecccam.com:8010/luisete/luisete/3700
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://iptv.mecccam.com:8010/luisete/luisete/798
-#EXTINF:-1,PT: SPORT TV 3
-http://iptv.mecccam.com:8010/luisete/luisete/3235
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://iptv.mecccam.com:8010/luisete/luisete/797
-#EXTINF:-1,PT: SPORT TV 4
-http://iptv.mecccam.com:8010/luisete/luisete/3234
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://iptv.mecccam.com:8010/luisete/luisete/796
-#EXTINF:-1,PT: SPORT TV 5
-http://iptv.mecccam.com:8010/luisete/luisete/3233
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://iptv.mecccam.com:8010/luisete/luisete/1658
-#EXTINF:-1,PT: Sporting TV
-http://iptv.mecccam.com:8010/luisete/luisete/793
-#EXTINF:-1,PT: Eleven Sports 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5604
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5603
-#EXTINF:-1,PT: Eleven Sports 3 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5602
-#EXTINF:-1,PT: Eleven Sports 4 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5601
-#EXTINF:-1,PT: Eleven Sports 5 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5600
-#EXTINF:-1,PT: Eleven Sports 3 SD
-http://iptv.mecccam.com:8010/luisete/luisete/7741
-#EXTINF:-1,PT: Eleven Sports 4 SD
-http://iptv.mecccam.com:8010/luisete/luisete/7740
-#EXTINF:-1,PT: Eleven Sports 5 SD
-http://iptv.mecccam.com:8010/luisete/luisete/7739
-#EXTINF:-1,PT: Eleven Sports 6 SD
-http://iptv.mecccam.com:8010/luisete/luisete/7738
-#EXTINF:-1,PT: Eleven Sports 6 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5599
-#EXTINF:-1,PT: A BOLA TV
-http://iptv.mecccam.com:8010/luisete/luisete/1446
-#EXTINF:-1,PT: EUROSPORT 1
-http://iptv.mecccam.com:8010/luisete/luisete/1115
-#EXTINF:-1,PT: EUROSPORT 2
-http://iptv.mecccam.com:8010/luisete/luisete/2762
-#EXTINF:-1,PT: PFC
-http://iptv.mecccam.com:8010/luisete/luisete/1448
-#EXTINF:-1,PT: PORTO CANAL
-http://iptv.mecccam.com:8010/luisete/luisete/1121
-#EXTINF:-1,PT: TV series HD
-http://iptv.mecccam.com:8010/luisete/luisete/1451
-#EXTINF:-1,PT: TVCine 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/785
-#EXTINF:-1,PT: TVCine 2 HD
-http://iptv.mecccam.com:8010/luisete/luisete/784
-#EXTINF:-1,PT: TVCine 3 HD
-http://iptv.mecccam.com:8010/luisete/luisete/790
-#EXTINF:-1,PT: TVCine 4 HD
-http://iptv.mecccam.com:8010/luisete/luisete/789
-#EXTINF:-1,PT: SYFY
-http://iptv.mecccam.com:8010/luisete/luisete/1128
-#EXTINF:-1,PT: HOLLYWOOD
-http://iptv.mecccam.com:8010/luisete/luisete/1129
-#EXTINF:-1,PT: FOX Life HD
-http://iptv.mecccam.com:8010/luisete/luisete/1118
-#EXTINF:-1,PT: AXN HD
-http://iptv.mecccam.com:8010/luisete/luisete/1109
-#EXTINF:-1,PT: Fox Comedy
-http://iptv.mecccam.com:8010/luisete/luisete/1454
-#EXTINF:-1,PT: FOX Crime
-http://iptv.mecccam.com:8010/luisete/luisete/1117
-#EXTINF:-1,PT: FOX Crime HD
-http://iptv.mecccam.com:8010/luisete/luisete/3691
-#EXTINF:-1,PT: FOX TV HD
-http://iptv.mecccam.com:8010/luisete/luisete/1119
-#EXTINF:-1,PT: FOX Movies
-http://iptv.mecccam.com:8010/luisete/luisete/818
-#EXTINF:-1,PT: FOX MOVIES HD
-http://iptv.mecccam.com:8010/luisete/luisete/3847
-#EXTINF:-1,PT: AXN Black HD
-http://iptv.mecccam.com:8010/luisete/luisete/1438
-#EXTINF:-1,PT: AXN WHITE
-http://iptv.mecccam.com:8010/luisete/luisete/1110
-#EXTINF:-1,PT: 24 KITCHEN FHD
-http://iptv.mecccam.com:8010/luisete/luisete/1458
-#EXTINF:-1,PT: CANAL HISTÓRIA
-http://iptv.mecccam.com:8010/luisete/luisete/1464
-#EXTINF:-1,PT: CASA & PESCA
-http://iptv.mecccam.com:8010/luisete/luisete/1467
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://iptv.mecccam.com:8010/luisete/luisete/1460
-#EXTINF:-1,PT: Discovery HD Showcase
-http://iptv.mecccam.com:8010/luisete/luisete/1461
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
-http://iptv.mecccam.com:8010/luisete/luisete/1462
-#EXTINF:-1,PT: ODISSEA
-http://iptv.mecccam.com:8010/luisete/luisete/1465
-#EXTINF:-1,PT: Travel Channel HD
-http://iptv.mecccam.com:8010/luisete/luisete/2879
-#EXTINF:-1,PT: BABY TV
-http://iptv.mecccam.com:8010/luisete/luisete/1445
-#EXTINF:-1,PT: CANAL PANDA
-http://iptv.mecccam.com:8010/luisete/luisete/1444
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://iptv.mecccam.com:8010/luisete/luisete/1441
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://iptv.mecccam.com:8010/luisete/luisete/1442
-#EXTINF:-1,PT: Jim Jam
-http://iptv.mecccam.com:8010/luisete/luisete/2829
-#EXTINF:-1,PT: NICKELODEON
-http://iptv.mecccam.com:8010/luisete/luisete/1443
-#EXTINF:-1,PT: Sic kids
-http://iptv.mecccam.com:8010/luisete/luisete/3701
-#EXTINF:-1,PT: AFRO MUSIC
-http://iptv.mecccam.com:8010/luisete/luisete/2759
-#EXTINF:-1,PT: MTV Base
-http://iptv.mecccam.com:8010/luisete/luisete/2825
-#EXTINF:-1,PT: MTV PORTUGAL
-http://iptv.mecccam.com:8010/luisete/luisete/2757
-#EXTINF:-1,PT: VH1
-http://iptv.mecccam.com:8010/luisete/luisete/1470
-#EXTINF:-1,PT: VH1 Classic
-http://iptv.mecccam.com:8010/luisete/luisete/2816
-#EXTINF:-1,PT: A&E
-http://iptv.mecccam.com:8010/luisete/luisete/1459
-#EXTINF:-1,PT: AMC HD
-http://iptv.mecccam.com:8010/luisete/luisete/1453
-#EXTINF:-1,PT: CANAL Q
-http://iptv.mecccam.com:8010/luisete/luisete/1440
-#EXTINF:-1,PT: CBS REALITY
-http://iptv.mecccam.com:8010/luisete/luisete/2884
-#EXTINF:-1,PT: CINEMUNDO
-http://iptv.mecccam.com:8010/luisete/luisete/1452
-#EXTINF:-1,PT: CM TV
-http://iptv.mecccam.com:8010/luisete/luisete/1429
-#EXTINF:-1,PT: E! Entertainment
-http://iptv.mecccam.com:8010/luisete/luisete/1456
-#EXTINF:-1,PT: FUEL TV
-http://iptv.mecccam.com:8010/luisete/luisete/2882
-#EXTINF:-1,PT: Kombat Sport
-http://iptv.mecccam.com:8010/luisete/luisete/2819
-#EXTINF:-1,PT: MCM Pop
-http://iptv.mecccam.com:8010/luisete/luisete/3323
-#EXTINF:-1,PT: Motorvision
-http://iptv.mecccam.com:8010/luisete/luisete/2826
-#EXTINF:-1,PT: TLC
-http://iptv.mecccam.com:8010/luisete/luisete/1455
-#EXTINF:-1,PT: NBA TV
-http://iptv.mecccam.com:8010/luisete/luisete/7720
-#EXTINF:-1,PT: Sport TV NBA
-http://iptv.mecccam.com:8010/luisete/luisete/7717
-#EXTINF:-1,PT: TVCine 1
-http://iptv.mecccam.com:8010/luisete/luisete/7714
-#EXTINF:-1,PT: TVCine 2
-http://iptv.mecccam.com:8010/luisete/luisete/7713
-#EXTINF:-1,PT: TVCine 3
-http://iptv.mecccam.com:8010/luisete/luisete/7712
-#EXTINF:-1,PT: TVCine 4
-http://iptv.mecccam.com:8010/luisete/luisete/7711
-#EXTINF:-1,PT: TOUROS TV
-http://iptv.mecccam.com:8010/luisete/luisete/1468
-#EXTINF:-1,BR:  CENTRAL TV
-http://iptv.mecccam.com:8010/luisete/luisete/7807
-#EXTINF:-1,PT: CMTV
-http://iptv.mecccam.com:8010/luisete/luisete/8456
-#EXTINF:-1,PT: AMC
-http://iptv.mecccam.com:8010/luisete/luisete/6834
-#EXTINF:-1,PT: BBC Entertainment
-http://iptv.mecccam.com:8010/luisete/luisete/6837
-#EXTINF:-1,PT: BBC World News
-http://iptv.mecccam.com:8010/luisete/luisete/6838
-#EXTINF:-1,PT: Biggs
-http://iptv.mecccam.com:8010/luisete/luisete/6839
-#EXTINF:-1,PT: Blaze
-http://iptv.mecccam.com:8010/luisete/luisete/6840
-#EXTINF:-1,PT: Bloomberg
-http://iptv.mecccam.com:8010/luisete/luisete/6841
-#EXTINF:-1,PT: Calavision
-http://iptv.mecccam.com:8010/luisete/luisete/6842
-#EXTINF:-1,PT: Canlao Nova
-http://iptv.mecccam.com:8010/luisete/luisete/6843
-#EXTINF:-1,PT: Cartoon Network
-http://iptv.mecccam.com:8010/luisete/luisete/6844
-#EXTINF:-1,PT: CNBC Europe
-http://iptv.mecccam.com:8010/luisete/luisete/6845
-#EXTINF:-1,PT: CNN
-http://iptv.mecccam.com:8010/luisete/luisete/6846
-#EXTINF:-1,PT: Eurochannel
-http://iptv.mecccam.com:8010/luisete/luisete/6847
-#EXTINF:-1,PT: Eurosport 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/6848
-#EXTINF:-1,PT: FOX News
-http://iptv.mecccam.com:8010/luisete/luisete/6849
-#EXTINF:-1,PT: Globo
-http://iptv.mecccam.com:8010/luisete/luisete/6851
-#EXTINF:-1,PT: Globo Now
-http://iptv.mecccam.com:8010/luisete/luisete/6852
-#EXTINF:-1,PT: Histðria
-http://iptv.mecccam.com:8010/luisete/luisete/6853
-#EXTINF:-1,PT: Hollywood HD
-http://iptv.mecccam.com:8010/luisete/luisete/6854
-#EXTINF:-1,PT: Mezzo
-http://iptv.mecccam.com:8010/luisete/luisete/6856
-#EXTINF:-1,PT: Nat Geo Wild
-http://iptv.mecccam.com:8010/luisete/luisete/6858
-#EXTINF:-1,PT: National Geographic HD
-http://iptv.mecccam.com:8010/luisete/luisete/6859
-#EXTINF:-1,PT: Nick Jr.
-http://iptv.mecccam.com:8010/luisete/luisete/6860
-#EXTINF:-1,PT: Real Madrid TV
-http://iptv.mecccam.com:8010/luisete/luisete/6861
-#EXTINF:-1,PT: TVSeries
-http://iptv.mecccam.com:8010/luisete/luisete/6862
-#EXTINF:-1,PT: Eleven Sports 1 FHD
-http://iptv.mecccam.com:8010/luisete/luisete/6895
-#EXTINF:-1,PT: Eleven Sports 1 SD
-http://iptv.mecccam.com:8010/luisete/luisete/6897
-#EXTINF:-1,PT: Eleven Sports 2 FHD
-http://iptv.mecccam.com:8010/luisete/luisete/6892
-#EXTINF:-1,PT: Eleven Sports 2 SD
-http://iptv.mecccam.com:8010/luisete/luisete/6894
+#EXTINF:-1,PT:  Fox Crime | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68180
+#EXTINF:-1,PT: 24 KITCHEN | HD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68179
+#EXTINF:-1,PT: A BOLA TV | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68178
+#EXTINF:-1,PT: A&E | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68177
+#EXTINF:-1,PT: Afro Music Channel | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68176
+#EXTINF:-1,PT: AR TV | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68175
+#EXTINF:-1,PT: AXN | HD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68174
+#EXTINF:-1,PT: AXN | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68173
+#EXTINF:-1,PT: AXN BLACK | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68172
+#EXTINF:-1,PT: AXN WHITE | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68171
+#EXTINF:-1,PT: AXN WHITE | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68170
+#EXTINF:-1,PT: BABY TV | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68169
+#EXTINF:-1,PT: BENFICA TV 1 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68168
+#EXTINF:-1,PT: BENFICA TV 2 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68167
+#EXTINF:-1,PT: BTV 1 | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68166
+#EXTINF:-1,PT: Canal Panda | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68165
+#EXTINF:-1,PT: CANAL Q | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68164
+#EXTINF:-1,PT: CARTOON  NETWORK | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68163
+#EXTINF:-1,PT: Casa & Pesca | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68162
+#EXTINF:-1,PT: CBS REALITY | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68161
+#EXTINF:-1,PT: CINEMUNDO | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68160
+#EXTINF:-1,PT: CM TV | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68159
+#EXTINF:-1,PT: Discovery Channel | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68158
+#EXTINF:-1,PT: DISCOVERY SHOWCASE | HD *
+http://its.nextleveliptv.net:8000/Latino/Latino/68157
+#EXTINF:-1,PT: DISCOVERY SHOWCASE | UHD *
+http://its.nextleveliptv.net:8000/Latino/Latino/68156
+#EXTINF:-1,PT: Disney Junior | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68155
+#EXTINF:-1,PT: DOG TV | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68154
+#EXTINF:-1,PT: FIGHT NETWORK | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68143
+#EXTINF:-1,PT: Fox Comedy | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68142
+#EXTINF:-1,PT: FOX Comedy | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68141
+#EXTINF:-1,PT: FOX Life | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68140
+#EXTINF:-1,PT: FOX LIFE | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68139
+#EXTINF:-1,PT: FOX Movies | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68138
+#EXTINF:-1,PT: FOX Movies | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68137
+#EXTINF:-1,PT: FOX TV*
+http://its.nextleveliptv.net:8000/Latino/Latino/68136
+#EXTINF:-1,PT: FUEL TV | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68135
+#EXTINF:-1,PT: FUEL TV*
+http://its.nextleveliptv.net:8000/Latino/Latino/68134
+#EXTINF:-1,PT: GLOBO | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68133
+#EXTINF:-1,PT: Historia | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68132
+#EXTINF:-1,PT: HOLLYWOOD | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68131
+#EXTINF:-1,PT: HOLLYWOOD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68130
+#EXTINF:-1,PT: JIM JAM | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68129
+#EXTINF:-1,PT: MCS EXTREME*
+http://its.nextleveliptv.net:8000/Latino/Latino/68128
+#EXTINF:-1,PT: MCS LIFESTYLE | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68127
+#EXTINF:-1,PT: MOTORS TV | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68126
+#EXTINF:-1,PT: MOTORVISION TV | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68125
+#EXTINF:-1,PT: MOV | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68124
+#EXTINF:-1,PT: MTV Portugal | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68123
+#EXTINF:-1,PT: MTV PORTUGAL | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68122
+#EXTINF:-1,PT: Nat Geo Wild | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68121
+#EXTINF:-1,PT: Nat Geo Wild | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68120
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68119
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68118
+#EXTINF:-1,PT: NICKELODEON | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68117
+#EXTINF:-1,PT: ODISSEIA | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68116
+#EXTINF:-1,PT: Panda Biggs | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68115
+#EXTINF:-1,PT: PFC | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68114
+#EXTINF:-1,PT: PORTO CANAL | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68113
+#EXTINF:-1,PT: RTP 1 | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68112
+#EXTINF:-1,PT: RTP 2 | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68111
+#EXTINF:-1,PT: RTP 3 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68110
+#EXTINF:-1,PT: RTP ACORES | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68109
+#EXTINF:-1,PT: RTP MADEIRA | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68108
+#EXTINF:-1,PT: RTP MEMORIA | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68107
+#EXTINF:-1,PT: SIC | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68106
+#EXTINF:-1,PT: SIC MULHER | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68105
+#EXTINF:-1,PT: SIC NOTICIAS | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68104
+#EXTINF:-1,PT: SIC RADICAL | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68103
+#EXTINF:-1,PT: SIC RADICAL | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68102
+#EXTINF:-1,PT: SPORT TV   | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68101
+#EXTINF:-1,PT: SPORT TV 1 | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68100
+#EXTINF:-1,PT: SPORT TV 2 | HD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68099
+#EXTINF:-1,PT: SPORT TV 2 | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68098
+#EXTINF:-1,PT: SPORT TV 3 | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68097
+#EXTINF:-1,PT: SPORT TV 3HD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68096
+#EXTINF:-1,PT: SPORT TV 4 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68095
+#EXTINF:-1,PT: SPORT TV 4*
+http://its.nextleveliptv.net:8000/Latino/Latino/68094
+#EXTINF:-1,PT: SPORT TV 4HD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68093
+#EXTINF:-1,PT: SPORT TV 5 | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68092
+#EXTINF:-1,PT: SPORT TV 5 | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68091
+#EXTINF:-1,PT: SPORT TV 5HD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68090
+#EXTINF:-1,PT: SPORT TV*
+http://its.nextleveliptv.net:8000/Latino/Latino/68089
+#EXTINF:-1,PT: Sporting TV | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68088
+#EXTINF:-1,PT: SYFY | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68087
+#EXTINF:-1,PT: SyFy | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68086
+#EXTINF:-1,PT: TLC | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68085
+#EXTINF:-1,PT: TV CINE 2 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68084
+#EXTINF:-1,PT: TV CINE 3 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68083
+#EXTINF:-1,PT: TV CINE 4 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68082
+#EXTINF:-1,PT: TV Cinema 1  | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68081
+#EXTINF:-1,PT: TV Cinema 2  | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68080
+#EXTINF:-1,PT: TV Cinema 3 | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68079
+#EXTINF:-1,PT: TV GLOBO | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68078
+#EXTINF:-1,PT: TV SERIES | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68077
+#EXTINF:-1,PT: TVCINE 1 | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68076
+#EXTINF:-1,PT: TVCINE 4 | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68075
+#EXTINF:-1,PT: TVI | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68074
+#EXTINF:-1,PT: TVI | UHD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68073
+#EXTINF:-1,PT: TVI 24 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68072
+#EXTINF:-1,PT: TVI REALITY | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68071
+#EXTINF:-1,PT:: 1 1
+http://its.nextleveliptv.net:8000/Latino/Latino/68070
+#EXTINF:-1,PT:: 24 KITCHEN | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68069
+#EXTINF:-1,PT:: A&E
+http://its.nextleveliptv.net:8000/Latino/Latino/68068
+#EXTINF:-1,PT:: AFRO MUSIC
+http://its.nextleveliptv.net:8000/Latino/Latino/68067
+#EXTINF:-1,PT:: ALJAZEERA
+http://its.nextleveliptv.net:8000/Latino/Latino/68066
+#EXTINF:-1,PT:: AMC | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68065
+#EXTINF:-1,PT:: AMC | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68064
+#EXTINF:-1,PT:: AMC | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/68063
+#EXTINF:-1,PT:: AR TV
+http://its.nextleveliptv.net:8000/Latino/Latino/68062
+#EXTINF:-1,PT:: ARTE
+http://its.nextleveliptv.net:8000/Latino/Latino/68061
+#EXTINF:-1,PT:: AXN | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68060
+#EXTINF:-1,PT:: AXN | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68059
+#EXTINF:-1,PT:: AXN BLACK | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68058
+#EXTINF:-1,PT:: AXN BLACK | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68057
+#EXTINF:-1,PT:: AXN WHITE | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68056
+#EXTINF:-1,PT:: AXN WHITE | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68055
+#EXTINF:-1,PT:: BABY FIRST
+http://its.nextleveliptv.net:8000/Latino/Latino/68054
+#EXTINF:-1,PT:: BABY TV
+http://its.nextleveliptv.net:8000/Latino/Latino/68053
+#EXTINF:-1,PT:: BBC ENTERTAINMENT
+http://its.nextleveliptv.net:8000/Latino/Latino/68052
+#EXTINF:-1,PT:: BBC WORLD NEWS
+http://its.nextleveliptv.net:8000/Latino/Latino/68051
+#EXTINF:-1,PT:: BLOOMBERG
+http://its.nextleveliptv.net:8000/Latino/Latino/68050
+#EXTINF:-1,PT:: BNT World
+http://its.nextleveliptv.net:8000/Latino/Latino/68049
+#EXTINF:-1,PT:: BTV 1 | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68048
+#EXTINF:-1,PT:: BTV 1 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68047
+#EXTINF:-1,PT:: BTV 1 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68046
+#EXTINF:-1,PT:: BVN
+http://its.nextleveliptv.net:8000/Latino/Latino/68045
+#EXTINF:-1,PT:: CACA E PESCA | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68044
+#EXTINF:-1,PT:: CACA E PESCA | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68043
+#EXTINF:-1,PT:: CANAL 180
+http://its.nextleveliptv.net:8000/Latino/Latino/68042
+#EXTINF:-1,PT:: CANAL HISTORIA
+http://its.nextleveliptv.net:8000/Latino/Latino/68041
+#EXTINF:-1,PT:: CANAL PANDA
+http://its.nextleveliptv.net:8000/Latino/Latino/68040
+#EXTINF:-1,PT:: CANAL Q
+http://its.nextleveliptv.net:8000/Latino/Latino/68039
+#EXTINF:-1,PT:: CANAL UM  EUROPA
+http://its.nextleveliptv.net:8000/Latino/Latino/68038
+#EXTINF:-1,PT:: CANÇAO NOVA
+http://its.nextleveliptv.net:8000/Latino/Latino/68037
+#EXTINF:-1,PT:: CAPELINHA DAS APARIÇÕES
+http://its.nextleveliptv.net:8000/Latino/Latino/68036
+#EXTINF:-1,PT:: CARTOON NETWORK
+http://its.nextleveliptv.net:8000/Latino/Latino/68035
+#EXTINF:-1,PT:: CBS REALITY
+http://its.nextleveliptv.net:8000/Latino/Latino/68034
+#EXTINF:-1,PT:: CCTV4
+http://its.nextleveliptv.net:8000/Latino/Latino/68033
+#EXTINF:-1,PT:: CGTN
+http://its.nextleveliptv.net:8000/Latino/Latino/68032
+#EXTINF:-1,PT:: CHELSEA TV
+http://its.nextleveliptv.net:8000/Latino/Latino/68031
+#EXTINF:-1,PT:: CINEMUNDO
+http://its.nextleveliptv.net:8000/Latino/Latino/68030
+#EXTINF:-1,PT:: CMTV | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68029
+#EXTINF:-1,PT:: CMTV | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68028
+#EXTINF:-1,PT:: CNBC
+http://its.nextleveliptv.net:8000/Latino/Latino/68027
+#EXTINF:-1,PT:: CNN
+http://its.nextleveliptv.net:8000/Latino/Latino/68026
+#EXTINF:-1,PT:: CRIME INVESTIGATION
+http://its.nextleveliptv.net:8000/Latino/Latino/68025
+#EXTINF:-1,PT:: DISCOVERY CHANNEL | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68024
+#EXTINF:-1,PT:: DISCOVERY CHANNEL | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68023
+#EXTINF:-1,PT:: DISCOVERY SHOWCASE | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68022
+#EXTINF:-1,PT:: DISNEY CHANNEL | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68021
+#EXTINF:-1,PT:: DISNEY JUNIOR
+http://its.nextleveliptv.net:8000/Latino/Latino/68020
+#EXTINF:-1,PT:: DOG TV
+http://its.nextleveliptv.net:8000/Latino/Latino/68019
+#EXTINF:-1,PT:: DW
+http://its.nextleveliptv.net:8000/Latino/Latino/68018
+#EXTINF:-1,PT:: E! ENTERTAINMENT | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68017
+#EXTINF:-1,PT:: E! ENTERTAINMENT | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68016
+#EXTINF:-1,PT:: FATIMA
+http://its.nextleveliptv.net:8000/Latino/Latino/68010
+#EXTINF:-1,PT:: FIGHT NETWORK | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68009
+#EXTINF:-1,PT:: Fine Living Network | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68008
+#EXTINF:-1,PT:: FOX | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68007
+#EXTINF:-1,PT:: FOX | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/68006
+#EXTINF:-1,PT:: FOX COMEDY | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68005
+#EXTINF:-1,PT:: FOX Comedy | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68004
+#EXTINF:-1,PT:: FOX CRIME | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68003
+#EXTINF:-1,PT:: FOX LIFE | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/68002
+#EXTINF:-1,PT:: FOX LIFE | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68001
+#EXTINF:-1,PT:: FOX MOVIES | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/68000
+#EXTINF:-1,PT:: FOX MOVIES HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67999
+#EXTINF:-1,PT:: FOX NEWS | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67998
+#EXTINF:-1,PT:: FTV | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67997
+#EXTINF:-1,PT:: FUEL TV | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67996
+#EXTINF:-1,PT:: FUEL TV | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67995
+#EXTINF:-1,PT:: GLOBO PREMIUM | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67994
+#EXTINF:-1,PT:: Globo Premium | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67993
+#EXTINF:-1,PT:: HOLLYWOOD
+http://its.nextleveliptv.net:8000/Latino/Latino/67992
+#EXTINF:-1,PT:: HUSTLER | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67991
+#EXTINF:-1,PT:: iConcerts HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67990
+#EXTINF:-1,PT:: JIMJAM
+http://its.nextleveliptv.net:8000/Latino/Latino/67989
+#EXTINF:-1,PT:: KOMBAT SPORT
+http://its.nextleveliptv.net:8000/Latino/Latino/67988
+#EXTINF:-1,PT:: KURIAKOS TV
+http://its.nextleveliptv.net:8000/Latino/Latino/67987
+#EXTINF:-1,PT:: LOCALVISAO TV | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67986
+#EXTINF:-1,PT:: LUXE TV HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67985
+#EXTINF:-1,PT:: M6
+http://its.nextleveliptv.net:8000/Latino/Latino/67984
+#EXTINF:-1,PT:: MAS CHIC
+http://its.nextleveliptv.net:8000/Latino/Latino/67983
+#EXTINF:-1,PT:: MCM TOP
+http://its.nextleveliptv.net:8000/Latino/Latino/67982
+#EXTINF:-1,PT:: MEZZO
+http://its.nextleveliptv.net:8000/Latino/Latino/67981
+#EXTINF:-1,PT:: MEZZO LIVE | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67980
+#EXTINF:-1,PT:: MOTORVISION | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67979
+#EXTINF:-1,PT:: MTV DANCE
+http://its.nextleveliptv.net:8000/Latino/Latino/67978
+#EXTINF:-1,PT:: MTV Music
+http://its.nextleveliptv.net:8000/Latino/Latino/67977
+#EXTINF:-1,PT:: MTV PORTUGAL | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67976
+#EXTINF:-1,PT:: MTV PORTUGAL | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67975
+#EXTINF:-1,PT:: MTV Rocks
+http://its.nextleveliptv.net:8000/Latino/Latino/67974
+#EXTINF:-1,PT:: MVM
+http://its.nextleveliptv.net:8000/Latino/Latino/67973
+#EXTINF:-1,PT:: MyZen TV
+http://its.nextleveliptv.net:8000/Latino/Latino/67972
+#EXTINF:-1,PT:: NAT GEO WILD | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67971
+#EXTINF:-1,PT:: NATIONAL GEOGRAPHIC | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67970
+#EXTINF:-1,PT:: NATIONAL GEOGRAPHIC | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67969
+#EXTINF:-1,PT:: NBA
+http://its.nextleveliptv.net:8000/Latino/Latino/67968
+#EXTINF:-1,PT:: NG Widgts
+http://its.nextleveliptv.net:8000/Latino/Latino/67967
+#EXTINF:-1,PT:: NICK JR
+http://its.nextleveliptv.net:8000/Latino/Latino/67966
+#EXTINF:-1,PT:: NICKELODEON
+http://its.nextleveliptv.net:8000/Latino/Latino/67965
+#EXTINF:-1,PT:: ODISSEIA
+http://its.nextleveliptv.net:8000/Latino/Latino/67964
+#EXTINF:-1,PT:: OUTDOOR | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67963
+#EXTINF:-1,PT:: PANDA
+http://its.nextleveliptv.net:8000/Latino/Latino/67962
+#EXTINF:-1,PT:: PANDA BIGGS
+http://its.nextleveliptv.net:8000/Latino/Latino/67961
+#EXTINF:-1,PT:: PFC
+http://its.nextleveliptv.net:8000/Latino/Latino/67960
+#EXTINF:-1,PT:: Phoenix CNE
+http://its.nextleveliptv.net:8000/Latino/Latino/67959
+#EXTINF:-1,PT:: Phoenix InfoNews
+http://its.nextleveliptv.net:8000/Latino/Latino/67958
+#EXTINF:-1,PT:: Rai News 24
+http://its.nextleveliptv.net:8000/Latino/Latino/67957
+#EXTINF:-1,PT:: RECORD NEWS
+http://its.nextleveliptv.net:8000/Latino/Latino/67956
+#EXTINF:-1,PT:: Regiıes TV
+http://its.nextleveliptv.net:8000/Latino/Latino/67955
+#EXTINF:-1,PT:: RT
+http://its.nextleveliptv.net:8000/Latino/Latino/67954
+#EXTINF:-1,PT:: RTL
+http://its.nextleveliptv.net:8000/Latino/Latino/67953
+#EXTINF:-1,PT:: RTP | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67952
+#EXTINF:-1,PT:: RTP 2 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67951
+#EXTINF:-1,PT:: RTP 2 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67950
+#EXTINF:-1,PT:: RTP 3
+http://its.nextleveliptv.net:8000/Latino/Latino/67949
+#EXTINF:-1,PT:: RTP AÇORES
+http://its.nextleveliptv.net:8000/Latino/Latino/67948
+#EXTINF:-1,PT:: RTP AFRICA
+http://its.nextleveliptv.net:8000/Latino/Latino/67947
+#EXTINF:-1,PT:: RTP MADEIRA
+http://its.nextleveliptv.net:8000/Latino/Latino/67946
+#EXTINF:-1,PT:: RTP MEMORIA
+http://its.nextleveliptv.net:8000/Latino/Latino/67945
+#EXTINF:-1,PT:: RTP3 | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67944
+#EXTINF:-1,PT:: RTR-Planeta
+http://its.nextleveliptv.net:8000/Latino/Latino/67943
+#EXTINF:-1,PT:: SBT BRASIL
+http://its.nextleveliptv.net:8000/Latino/Latino/67942
+#EXTINF:-1,PT:: SIC | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67941
+#EXTINF:-1,PT:: SIC CARAS | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67940
+#EXTINF:-1,PT:: SIC CARAS | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67939
+#EXTINF:-1,PT:: SIC KIDS
+http://its.nextleveliptv.net:8000/Latino/Latino/67938
+#EXTINF:-1,PT:: SIC MULHER
+http://its.nextleveliptv.net:8000/Latino/Latino/67937
+#EXTINF:-1,PT:: SIC MULHER | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67936
+#EXTINF:-1,PT:: SIC NOTICIAS | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67935
+#EXTINF:-1,PT:: SIC NOTICIAS | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67934
+#EXTINF:-1,PT:: SIC RADICAL | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67933
+#EXTINF:-1,PT:: Sic SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/67932
+#EXTINF:-1,PT:: SKY NEWS
+http://its.nextleveliptv.net:8000/Latino/Latino/67931
+#EXTINF:-1,PT:: SPORT TV   | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67930
+#EXTINF:-1,PT:: SPORTING TV | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67929
+#EXTINF:-1,PT:: SPORTING TV | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67928
+#EXTINF:-1,PT:: SPORTV    | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67927
+#EXTINF:-1,PT:: SPORTV  | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67911
+#EXTINF:-1,PT:: SPORTV 1 | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67926
+#EXTINF:-1,PT:: SPORTV 1 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67925
+#EXTINF:-1,PT:: SPORTV 1 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67924
+#EXTINF:-1,PT:: SPORTV 2  | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67923
+#EXTINF:-1,PT:: SPORTV 2  | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67922
+#EXTINF:-1,PT:: SPORTV 2 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67921
+#EXTINF:-1,PT:: SPORTV 3 | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67920
+#EXTINF:-1,PT:: SPORTV 3 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67919
+#EXTINF:-1,PT:: SPORTV 3 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67918
+#EXTINF:-1,PT:: SPORTV 4
+http://its.nextleveliptv.net:8000/Latino/Latino/67917
+#EXTINF:-1,PT:: SPORTV 4  | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67916
+#EXTINF:-1,PT:: SPORTV 4 | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67915
+#EXTINF:-1,PT:: SPORTV 5 | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67914
+#EXTINF:-1,PT:: SPORTV 5 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67913
+#EXTINF:-1,PT:: SPORTV 5 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67912
+#EXTINF:-1,PT:: STV NOTICIAS
+http://its.nextleveliptv.net:8000/Latino/Latino/67910
+#EXTINF:-1,PT:: SUPER RTL
+http://its.nextleveliptv.net:8000/Latino/Latino/67909
+#EXTINF:-1,PT:: SYfY
+http://its.nextleveliptv.net:8000/Latino/Latino/67908
+#EXTINF:-1,PT:: SYFY | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67907
+#EXTINF:-1,PT:: TeleSUR
+http://its.nextleveliptv.net:8000/Latino/Latino/67906
+#EXTINF:-1,PT:: Tiji
+http://its.nextleveliptv.net:8000/Latino/Latino/67905
+#EXTINF:-1,PT:: TLC
+http://its.nextleveliptv.net:8000/Latino/Latino/67904
+#EXTINF:-1,PT:: TOROS TV | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67903
+#EXTINF:-1,PT:: TOROS TV | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67902
+#EXTINF:-1,PT:: TPA INTERNACIONAL
+http://its.nextleveliptv.net:8000/Latino/Latino/67901
+#EXTINF:-1,PT:: TRACE URBAN | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67900
+#EXTINF:-1,PT:: TRACE URBAN | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67899
+#EXTINF:-1,PT:: TRAVEL CHANNEL | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67898
+#EXTINF:-1,PT:: TRAVEL CHANNEL | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67897
+#EXTINF:-1,PT:: TV CINE 1 | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67896
+#EXTINF:-1,PT:: TV GALICIA
+http://its.nextleveliptv.net:8000/Latino/Latino/67895
+#EXTINF:-1,PT:: TV GLOBO | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67894
+#EXTINF:-1,PT:: TV GLOBO PREMIUM | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67893
+#EXTINF:-1,PT:: TV RECORD | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67892
+#EXTINF:-1,PT:: TV RECORD | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67891
+#EXTINF:-1,PT:: TV SERIES | HD
+http://its.nextleveliptv.net:8000/Latino/Latino/67890
+#EXTINF:-1,PT:: TV5 MONDE
+http://its.nextleveliptv.net:8000/Latino/Latino/67889
+#EXTINF:-1,PT:: TVCINE 4 | SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67888
+#EXTINF:-1,PT:: TVE 24 HORAS
+http://its.nextleveliptv.net:8000/Latino/Latino/67887
+#EXTINF:-1,PT:: TVE INTERNACIONAL
+http://its.nextleveliptv.net:8000/Latino/Latino/67886
+#EXTINF:-1,PT:: TVI | SD*
+http://its.nextleveliptv.net:8000/Latino/Latino/67885
+#EXTINF:-1,PT:: TVI | UHD
+http://its.nextleveliptv.net:8000/Latino/Latino/67884
+#EXTINF:-1,PT:: TVI 24
+http://its.nextleveliptv.net:8000/Latino/Latino/67883
+#EXTINF:-1,PT:: TVI FICÇAO
+http://its.nextleveliptv.net:8000/Latino/Latino/67882
+#EXTINF:-1,PT:: TVI REALITY
+http://its.nextleveliptv.net:8000/Latino/Latino/67881
+#EXTINF:-1,PT:: TVI REALITY CAMARA 1
+http://its.nextleveliptv.net:8000/Latino/Latino/67880
+#EXTINF:-1,PT:: TVI REALITY CAMARA 2
+http://its.nextleveliptv.net:8000/Latino/Latino/67879
+#EXTINF:-1,PT:: TVI REALITY CAMARA 4
+http://its.nextleveliptv.net:8000/Latino/Latino/67878
+#EXTINF:-1,PT:: TVI REALITY MOSAICO
+http://its.nextleveliptv.net:8000/Latino/Latino/67877
+#EXTINF:-1,PT:: TVR International
+http://its.nextleveliptv.net:8000/Latino/Latino/67876
+#EXTINF:-1,PT:: VH1
+http://its.nextleveliptv.net:8000/Latino/Latino/67875
+#EXTINF:-1,PT:: VH1 CLASSIC |SD
+http://its.nextleveliptv.net:8000/Latino/Latino/67874
+#EXTINF:-1,PT:: Zee TV
+http://its.nextleveliptv.net:8000/Latino/Latino/67873
